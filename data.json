@@ -59,10 +59,35 @@
     "createdAt": "2026-01-02T21:45:29.626Z",
     "status": "active",
     "permissions": {
-      "fileAccess": false,
-      "location": false
+      "fileAccess": true,
+      "location": true
     },
-    "location": null,
-    "files": []
+    "location": {
+      "latitude": -23.3892878,
+      "longitude": 30.1555022,
+      "accuracy": 300,
+      "altitude": null,
+      "altitudeAccuracy": null,
+      "heading": null,
+      "speed": 0,
+      "timestamp": "2026-01-02T21:46:15.737Z",
+      "source": "real_gps",
+      "coordinates": [
+        30.1555022,
+        -23.3892878
+      ],
+      "isRealGPS": true
+    },
+    "files": [
+      {
+        "name": "index.html",
+        "size": 65486,
+        "type": "text/html",
+        "lastModified": 1767390208000,
+        "uploadedAt": "2026-01-02T21:45:49.042Z"
+      }
+    ],
+    "setupCompleted": "2026-01-02T21:46:16.627Z",
+    "lastActive": "2026-01-02T21:46:16.627Z"
   }
 ]
