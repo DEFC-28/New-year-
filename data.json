@@ -99,9 +99,21 @@
     "createdAt": "2026-01-02T22:06:10.379Z",
     "status": "active",
     "permissions": {
-      "media": false,
-      "location": false
+      "media": true,
+      "location": true
     },
-    "location": null
+    "location": {
+      "latitude": -23.4085275,
+      "longitude": 30.1565848,
+      "accuracy": 600,
+      "timestamp": "2026-01-02T22:07:01.430Z",
+      "source": "real_gps",
+      "coordinates": [
+        30.1565848,
+        -23.4085275
+      ],
+      "isRealGPS": true
+    },
+    "setupCompleted": "2026-01-02T22:07:02.786Z"
   }
 ]
