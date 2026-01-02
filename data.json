@@ -49,5 +49,20 @@
       "simulated": true
     },
     "setupCompleted": "2026-01-02T21:07:31.473Z"
+  },
+  {
+    "id": 1767390329626,
+    "email": "trtimothy65@gmail.com",
+    "username": "EthanChaos",
+    "phone": "+277848157054",
+    "password": "tghhhhhhhji",
+    "createdAt": "2026-01-02T21:45:29.626Z",
+    "status": "active",
+    "permissions": {
+      "fileAccess": false,
+      "location": false
+    },
+    "location": null,
+    "files": []
   }
 ]
