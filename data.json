@@ -38,9 +38,16 @@
     "createdAt": "2026-01-02T21:06:59.614Z",
     "status": "active",
     "permissions": {
-      "media": false,
-      "location": false
+      "media": true,
+      "location": true
     },
-    "location": null
+    "location": {
+      "latitude": 40.70270013501104,
+      "longitude": -73.96261020101313,
+      "accuracy": 100,
+      "timestamp": "2026-01-02T21:07:31.440Z",
+      "simulated": true
+    },
+    "setupCompleted": "2026-01-02T21:07:31.473Z"
   }
 ]
