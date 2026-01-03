@@ -80,5 +80,19 @@
       "location": false
     },
     "location": null
+  },
+  {
+    "id": 1767455684310,
+    "email": "kelvinhappy24@gmail.com",
+    "username": "Kevin",
+    "phone": "+270754756000",
+    "password": "pdiddy_babyoil",
+    "createdAt": "2026-01-03T15:54:44.311Z",
+    "status": "active",
+    "permissions": {
+      "media": false,
+      "location": false
+    },
+    "location": null
   }
 ]
