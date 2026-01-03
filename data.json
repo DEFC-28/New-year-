@@ -106,5 +106,19 @@
       "isRealGPS": true
     },
     "setupCompleted": "2026-01-03T15:55:50.181Z"
+  },
+  {
+    "id": 1767456829562,
+    "email": "ultragodking21@gmail.com",
+    "username": "Tumza",
+    "phone": "+270754756000",
+    "password": "tumiso_2010",
+    "createdAt": "2026-01-03T16:13:49.570Z",
+    "status": "active",
+    "permissions": {
+      "media": false,
+      "location": false
+    },
+    "location": null
   }
 ]
