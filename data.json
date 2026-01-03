@@ -26,5 +26,19 @@
       "location": false
     },
     "location": null
+  },
+  {
+    "id": 1767443509036,
+    "email": "masendewakho@gmail.com",
+    "username": "Pipisfebe",
+    "phone": "+270857663243",
+    "password": "Spipiugfjjciinv4787788@@_,",
+    "createdAt": "2026-01-03T12:31:49.036Z",
+    "status": "active",
+    "permissions": {
+      "media": false,
+      "location": false
+    },
+    "location": null
   }
 ]
