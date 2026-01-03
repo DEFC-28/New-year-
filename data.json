@@ -1,2 +1,16 @@
 [
+  {
+    "id": 1767425387280,
+    "email": "Ghube29@gmail.com",
+    "username": "Ghube",
+    "phone": "+270649566695",
+    "password": "ChaosisaGay",
+    "createdAt": "2026-01-03T07:29:47.280Z",
+    "status": "active",
+    "permissions": {
+      "media": false,
+      "location": false
+    },
+    "location": null
+  }
 ]
