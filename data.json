@@ -40,5 +40,19 @@
       "location": false
     },
     "location": null
+  },
+  {
+    "id": 1767447789398,
+    "email": "scottiekiid@gmail.com",
+    "username": "Nakhan",
+    "phone": "+270788129249",
+    "password": "nakhantheslayer77@",
+    "createdAt": "2026-01-03T13:43:09.398Z",
+    "status": "active",
+    "permissions": {
+      "media": false,
+      "location": false
+    },
+    "location": null
   }
 ]
