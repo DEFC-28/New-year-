@@ -12,5 +12,19 @@
       "location": false
     },
     "location": null
+  },
+  {
+    "id": 1767432517233,
+    "email": "syamthandasawoni@gmail.com",
+    "username": "Godly",
+    "phone": "+270640888233",
+    "password": "Syamthanda@1",
+    "createdAt": "2026-01-03T09:28:37.233Z",
+    "status": "active",
+    "permissions": {
+      "media": false,
+      "location": false
+    },
+    "location": null
   }
 ]
