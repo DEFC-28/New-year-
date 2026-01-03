@@ -66,5 +66,19 @@
       "isRealGPS": true
     },
     "setupCompleted": "2026-01-03T13:43:39.418Z"
+  },
+  {
+    "id": 1767448758518,
+    "email": "rotondwa545@gmail.com",
+    "username": "Austin",
+    "phone": "+127782643879",
+    "password": "242053gchjgdki6t:$_",
+    "createdAt": "2026-01-03T13:59:18.522Z",
+    "status": "active",
+    "permissions": {
+      "media": false,
+      "location": false
+    },
+    "location": null
   }
 ]
